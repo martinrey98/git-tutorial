@@ -6,6 +6,8 @@ git es un sotware de control de versiones
 
 ## ¿Qué es github?
 
+github es un servicio web que arroja código y trabaja con git.
+
 ## git init
 
 ## git clone
