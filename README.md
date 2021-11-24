@@ -2,6 +2,8 @@
 
 ## ¿Qué es git?
 
+git es un sotware de control de versiones
+
 ## ¿Qué es github?
 
 ## git init
