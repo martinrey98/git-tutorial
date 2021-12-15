@@ -18,6 +18,8 @@ Clona un repositorio remoto (que vive por ejemplo en GitHub) de manera local.
 
 ## git status
 
+Describe el estado del repositorio actual, cambios a agregar, cambios agregados a commitear y commits a pushear si los hubiera. Además especifica información como la branch actual.
+
 ## git add
 
 ## git commit
