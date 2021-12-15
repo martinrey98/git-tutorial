@@ -14,6 +14,8 @@ Este comando permite iniciar las modificaciones que se le realicen a un reposito
 
 ## git clone
 
+Clona un repositorio remoto (que vive por ejemplo en GitHub) de manera local.
+
 ## git status
 
 ## git add
