@@ -59,6 +59,10 @@ Permite mezclar o unir la rama de trabajo actual con una especificada.
 
 ## .gitignore
 
+Es un archivo que permite especificar todos aquellos archivos y directorios que no son necesarios seguir, agregar, commitear, ni pushear.
+Ejemplos: - Archivos con la extensión .pyc (archivos de Python)
+	  - Directorios con la extensión /tmp (directorios) 
+
 ## Tutorial interactivo
 
 [learngitbranching](https://learngitbranching.js.org/)
